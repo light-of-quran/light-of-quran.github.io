@@ -37,6 +37,45 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Fetch and display dynamic content
+    const showcaseGrid = document.querySelector('.showcase-grid');
+    if (showcaseGrid) {
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                if (data.reels.length > 0 || data.carousels.length > 0) {
+                    showcaseGrid.innerHTML = ''; // Clear placeholders
+                    
+                    // Show latest 3 items
+                    const items = [...data.reels.map(r => ({...r, type: 'Reel'})), 
+                                   ...data.carousels.map(c => ({...c, type: 'Carousel'}))]
+                                   .sort((a, b) => new Date(b.date) - new Date(a.date))
+                                   .slice(0, 6);
+
+                    items.forEach(item => {
+                        const div = document.createElement('div');
+                        div.className = 'showcase-item';
+                        div.innerHTML = `
+                            <div class="showcase-media">
+                                <img src="${item.thumbnail || 'assets/logo.png'}" alt="${item.title}">
+                                <div class="showcase-overlay">
+                                    <i class="fas ${item.type === 'Reel' ? 'fa-play' : 'fa-images'}"></i>
+                                </div>
+                            </div>
+                            <div class="showcase-info">
+                                <span>${item.title}</span>
+                                <p>${item.type} • ${item.date}</p>
+                            </div>
+                        `;
+                        div.onclick = () => window.open(item.url, '_blank');
+                        showcaseGrid.appendChild(div);
+                        observer.observe(div);
+                    });
+                }
+            })
+            .catch(err => console.error('Error loading showcase data:', err));
+    }
+
     // Intersection Observer for fade-in animations on scroll
     const observerOptions = {
         threshold: 0.1
