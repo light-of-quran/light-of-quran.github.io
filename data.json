@@ -8,5 +8,13 @@
             "timestamp": "2026-05-06T02:57:21.414289"
         }
     ],
-    "carousels": []
+    "carousels": [
+        {
+            "title": "Surah Al-Baqara (16-20)",
+            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v16_753/00_cover.png",
+            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v16_753/00_cover.png",
+            "date": "2026-05-06",
+            "timestamp": "2026-05-06T10:36:58.358608"
+        }
+    ]
 }
