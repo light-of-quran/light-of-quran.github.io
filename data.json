@@ -17,6 +17,13 @@
     ],
     "carousels": [
         {
+            "title": "Surah Al-Faatiha (1-7)",
+            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s1_v1_848/00_cover.png",
+            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s1_v1_848/00_cover.png",
+            "date": "2026-05-07",
+            "timestamp": "2026-05-07T05:24:15.733020"
+        },
+        {
             "title": "Surah Al-Baqara (21-25)",
             "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v21_870/00_cover.png",
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v21_870/00_cover.png",
