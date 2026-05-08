@@ -45,6 +45,13 @@
     ],
     "carousels": [
         {
+            "title": "Surah Al-Baqara (21-25)",
+            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v21_590/00_cover.png",
+            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v21_590/00_cover.png",
+            "date": "2026-05-08",
+            "timestamp": "2026-05-08T19:01:54.686268"
+        },
+        {
             "title": "Surah Al-Baqara (16-20)",
             "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v16_258/00_cover.png",
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v16_258/00_cover.png",
