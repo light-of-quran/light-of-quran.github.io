@@ -66,6 +66,13 @@
     ],
     "carousels": [
         {
+            "title": "Surah Al-Baqara (36-40)",
+            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v36_684/00_cover.png",
+            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v36_684/00_cover.png",
+            "date": "2026-05-10",
+            "timestamp": "2026-05-10T09:17:35.537598"
+        },
+        {
             "title": "Surah Al-Baqara (31-35)",
             "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v31_859/00_cover.png",
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v31_859/00_cover.png",
