@@ -101,6 +101,13 @@
     ],
     "carousels": [
         {
+            "title": "Surah Al-Baqara (61-65)",
+            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v61_246/00_cover.png",
+            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v61_246/00_cover.png",
+            "date": "2026-05-12",
+            "timestamp": "2026-05-12T20:54:18.335758"
+        },
+        {
             "title": "Surah Al-Baqara (56-60)",
             "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v56_693/00_cover.png",
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v56_693/00_cover.png",
