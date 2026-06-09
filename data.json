@@ -143,6 +143,13 @@
     ],
     "carousels": [
         {
+            "title": "Surah Al-Baqara (96-100)",
+            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v96_181/00_cover.png",
+            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v96_181/00_cover.png",
+            "date": "2026-06-09",
+            "timestamp": "2026-06-09T12:26:20.721886"
+        },
+        {
             "title": "Surah Al-Baqara (91-95)",
             "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v91_502/00_cover.png",
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v91_502/00_cover.png",
@@ -274,13 +281,6 @@
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v1_819/00_cover.png",
             "date": "2026-05-07",
             "timestamp": "2026-05-07T06:01:01.915749"
-        },
-        {
-            "title": "Surah Al-Faatiha (1-7)",
-            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s1_v1_848/00_cover.png",
-            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s1_v1_848/00_cover.png",
-            "date": "2026-05-07",
-            "timestamp": "2026-05-07T05:24:15.733020"
         }
     ]
 }
