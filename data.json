@@ -143,6 +143,13 @@
     ],
     "carousels": [
         {
+            "title": "Surah Al-Baqara (221-225)",
+            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v221_114/00_cover.png",
+            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v221_114/00_cover.png",
+            "date": "2026-07-07",
+            "timestamp": "2026-07-07T12:18:49.695225"
+        },
+        {
             "title": "Surah Al-Baqara (216-220)",
             "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v216_423/00_cover.png",
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v216_423/00_cover.png",
@@ -274,13 +281,6 @@
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v126_298/00_cover.png",
             "date": "2026-06-15",
             "timestamp": "2026-06-15T15:30:46.502583"
-        },
-        {
-            "title": "Surah Al-Baqara (121-125)",
-            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v121_864/00_cover.png",
-            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v121_864/00_cover.png",
-            "date": "2026-06-14",
-            "timestamp": "2026-06-14T11:42:57.926939"
         }
     ]
 }
