@@ -143,6 +143,13 @@
     ],
     "carousels": [
         {
+            "title": "Surah Aal-i-Imraan (26-30)",
+            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v26_113/00_cover.png",
+            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v26_113/00_cover.png",
+            "date": "2026-09-05",
+            "timestamp": "2026-09-05T11:26:51.706180"
+        },
+        {
             "title": "Surah Aal-i-Imraan (21-25)",
             "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v21_237/00_cover.png",
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v21_237/00_cover.png",
@@ -274,13 +281,6 @@
             "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v221_114/00_cover.png",
             "date": "2026-07-07",
             "timestamp": "2026-07-07T12:18:49.695225"
-        },
-        {
-            "title": "Surah Al-Baqara (216-220)",
-            "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v216_423/00_cover.png",
-            "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v216_423/00_cover.png",
-            "date": "2026-07-06",
-            "timestamp": "2026-07-06T13:08:45.668922"
         }
     ]
 }
