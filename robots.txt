@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://light-of-quran.github.io/sitemap.xml
