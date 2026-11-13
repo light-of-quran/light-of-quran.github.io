@@ -1,5 +1,45 @@
 [
   {
+    "slug": "surah-nooh-10-11",
+    "surah": 71,
+    "surah_name": "Nooh",
+    "verse_start": 10,
+    "verse_end": 11,
+    "category": {
+      "label": "Spiritual Wisdom & Guidance",
+      "slug": "spiritual-wisdom",
+      "badge": "Spiritual Wisdom"
+    },
+    "arabic_text": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًۭا يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًۭا",
+    "english_translation": "And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver. He will send [rain from] the sky upon you in [continuing] showers",
+    "urdu_translation": "تو میں نے کہا اپنے رب سے معافی مانگو وہ بڑا معاف فرمانے والا ہے تم پر شراٹے کا (موسلا دھار) مینھ بھیجے گا،",
+    "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5429.mp3",
+    "date": "2026-11-13",
+    "tafsir": {
+      "context": "Surah Nooh holds profound significance in Islamic spirituality, offering timeless reassurance to believers. In these sacred verses (Ayat 10-11), the Divine address directly touches the human heart, speaking directly to our inner struggles, trials, and search for spiritual grounding. When life presents overwhelming hardships, turning to the revelation provides clarity, reminding the believer of Allah's infinite wisdom, boundless mercy, and watchful care over all affairs.",
+      "lessons": [
+        "**Firm Faith in Times of Uncertainty**: Recognizing that every delay or hardship in life carries divine wisdom beyond immediate human comprehension.",
+        "**The Power of Silent Supplication**: Remembering Allah through sincere invocation (Dua) calms anxious thoughts and restores inner peace.",
+        "**Consistency in Righteous Action**: Small, consistent good deeds—reciting sacred verses, making Istighfar, and extending kindness—bring immense spiritual barakah."
+      ],
+      "practical_dua": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ\n\n\"Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire.\" (Surah Al-Baqarah 2:201)",
+      "faqs": [
+        {
+          "q": "What is the central theme of Surah Nooh (Ayat 10-11)?",
+          "a": "The primary theme focuses on spiritual wisdom & guidance, guiding believers to cultivate unwavering trust in Allah, practice patience through trials, and find solace in divine remembrance."
+        },
+        {
+          "q": "How can I apply Surah Nooh in my daily life for mental peace?",
+          "a": "Recite these verses deliberately after daily prayers or during night reflection (Tahajjud). Contemplate both the Urdu and English meanings to internalize the divine promise of relief after hardship."
+        },
+        {
+          "q": "Where was Surah Nooh revealed and how many verses does it contain?",
+          "a": "Surah Nooh is chapter #71 of the Holy Quran, containing sacred revelations that address both personal spiritual development and communal ethics."
+        }
+      ]
+    }
+  },
+  {
     "slug": "surah-aal-i-imraan-116-120",
     "surah": 3,
     "surah_name": "Aal-i-Imraan",
