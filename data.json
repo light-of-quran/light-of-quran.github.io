@@ -159,6 +159,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah Aal-i-Imraan (116-120)",
+      "url": "verses/surah-aal-i-imraan-116-120.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v116_207/00_cover.png",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T12:54:34.449343+00:00",
+      "slug": "surah-aal-i-imraan-116-120"
+    },
+    {
       "title": "Surah Aal-i-Imraan (111-115)",
       "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v111_274/00_cover.png",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v111_274/00_cover.png",
