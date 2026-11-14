@@ -1,5 +1,45 @@
 [
   {
+    "slug": "surah-at-talaaq-2-3",
+    "surah": 65,
+    "surah_name": "At-Talaaq",
+    "verse_start": 2,
+    "verse_end": 3,
+    "category": {
+      "label": "Spiritual Wisdom & Guidance",
+      "slug": "spiritual-wisdom",
+      "badge": "Spiritual Wisdom"
+    },
+    "arabic_text": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍۢ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍۢ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًۭا وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا",
+    "english_translation": "And when they have [nearly] fulfilled their term, either retain them according to acceptable terms or part with them according to acceptable terms. And bring to witness two just men from among you and establish the testimony for [the acceptance of] Allah. That is instructed to whoever should believe in Allah and the Last day. And whoever fears Allah - He will make for him a way out And will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+    "urdu_translation": "تو جب وہ اپنی میعاد تک پہنچنے کو ہوں تو انہیں بھلائی کے ساتھ روک لو یا بھلائی کے ساتھ جدا کرو اور اپنے میں دو ثقہ کو گواہ کرلو اور اللہ کے لیے گواہی قائم کرو اس سے نصیحت فرمائی جاتی ہے اسے جو اللہ اور پچھلے دن پر ایمان رکھتا ہو اور جو اللہ سے ڈرے اللہ اس کے لیے نجات کی راہ نکال دے گا اور اسے وہاں سے روزی دے گا جہاں اس کا گمان نہ ہو، اور جو اللہ پر بھروسہ کرے تو وہ اسے کافی ہے بیشک اللہ اپنا کام پورا کرنے والا ہے، بیشک اللہ نے ہر چیز کا ایک اندازہ رکھا ہے،",
+    "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5219.mp3",
+    "date": "2026-11-14",
+    "tafsir": {
+      "context": "Surah At-Talaaq holds profound significance in Islamic spirituality, offering timeless reassurance to believers. In these sacred verses (Ayat 2-3), the Divine address directly touches the human heart, speaking directly to our inner struggles, trials, and search for spiritual grounding. When life presents overwhelming hardships, turning to the revelation provides clarity, reminding the believer of Allah's infinite wisdom, boundless mercy, and watchful care over all affairs.",
+      "lessons": [
+        "**Firm Faith in Times of Uncertainty**: Recognizing that every delay or hardship in life carries divine wisdom beyond immediate human comprehension.",
+        "**The Power of Silent Supplication**: Remembering Allah through sincere invocation (Dua) calms anxious thoughts and restores inner peace.",
+        "**Consistency in Righteous Action**: Small, consistent good deeds—reciting sacred verses, making Istighfar, and extending kindness—bring immense spiritual barakah."
+      ],
+      "practical_dua": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ\n\n\"Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire.\" (Surah Al-Baqarah 2:201)",
+      "faqs": [
+        {
+          "q": "What is the central theme of Surah At-Talaaq (Ayat 2-3)?",
+          "a": "The primary theme focuses on spiritual wisdom & guidance, guiding believers to cultivate unwavering trust in Allah, practice patience through trials, and find solace in divine remembrance."
+        },
+        {
+          "q": "How can I apply Surah At-Talaaq in my daily life for mental peace?",
+          "a": "Recite these verses deliberately after daily prayers or during night reflection (Tahajjud). Contemplate both the Urdu and English meanings to internalize the divine promise of relief after hardship."
+        },
+        {
+          "q": "Where was Surah At-Talaaq revealed and how many verses does it contain?",
+          "a": "Surah At-Talaaq is chapter #65 of the Holy Quran, containing sacred revelations that address both personal spiritual development and communal ethics."
+        }
+      ]
+    }
+  },
+  {
     "slug": "surah-al-baqara-284",
     "surah": 2,
     "surah_name": "Al-Baqara",

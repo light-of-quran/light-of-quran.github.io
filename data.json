@@ -183,6 +183,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah At-Talaaq (2-3)",
+      "url": "verses/surah-at-talaaq-2-3.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s65_v2_656/00_cover.png",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T11:58:13.566238+00:00",
+      "slug": "surah-at-talaaq-2-3"
+    },
+    {
       "title": "Surah Aal-i-Imraan (116-120)",
       "url": "verses/surah-aal-i-imraan-116-120.html",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v116_207/00_cover.png",
