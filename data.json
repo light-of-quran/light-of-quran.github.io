@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Al-Faatiha (1-1)",
+      "url": "verses/surah-al-faatiha-1.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T17:52:42.034616+00:00",
+      "slug": "surah-al-faatiha-1"
+    },
+    {
       "title": "Surah At-Tin (1-3)",
       "url": "verses/surah-at-tin-1-3.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
