@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Al-Baqara (285-285)",
+      "url": "verses/surah-al-baqara-285.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T05:05:13.743723+00:00",
+      "slug": "surah-al-baqara-285"
+    },
+    {
       "title": "Surah Al-Faatiha (1-1)",
       "url": "verses/surah-al-faatiha-1.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
