@@ -1,5 +1,45 @@
 [
   {
+    "slug": "surah-al-baqara-286",
+    "surah": 2,
+    "surah_name": "Al-Baqara",
+    "verse_start": 286,
+    "verse_end": 286,
+    "category": {
+      "label": "Spiritual Wisdom & Guidance",
+      "slug": "spiritual-wisdom",
+      "badge": "Spiritual Wisdom"
+    },
+    "arabic_text": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًۭا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+    "english_translation": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+    "urdu_translation": "اللہ کسی جان پر بوجھ نہیں ڈالتا مگر اس کی طاقت بھر، اس کا فائدہ ہے جو اچھا کمایا اور اس کا نقصان ہے جو برائی کمائی اے رب ہمارے! ہمیں نہ پکڑ اگر ہم بھولیں یا چوُکیں اے رب ہمارے! اور ہم پر بھاری بوجھ نہ رکھ جیسا تو نے ہم سے اگلوں پر رکھا تھا، اے رب ہمارے! اور ہم پر وہ بوجھ نہ ڈال جس کی ہمیں سہار (برداشت) نہ ہو اور ہمیں معاف فرمادے اور بخش دے اور ہم پر مہر کر تو ہمارا مولیٰ ہے۔ تو کافروں پر ہمیں مدد دے۔",
+    "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/293.mp3",
+    "date": "2026-11-15",
+    "tafsir": {
+      "context": "Surah Al-Baqara holds profound significance in Islamic spirituality, offering timeless reassurance to believers. In these sacred verses (Ayah 286), the Divine address directly touches the human heart, speaking directly to our inner struggles, trials, and search for spiritual grounding. When life presents overwhelming hardships, turning to the revelation provides clarity, reminding the believer of Allah's infinite wisdom, boundless mercy, and watchful care over all affairs.",
+      "lessons": [
+        "**Firm Faith in Times of Uncertainty**: Recognizing that every delay or hardship in life carries divine wisdom beyond immediate human comprehension.",
+        "**The Power of Silent Supplication**: Remembering Allah through sincere invocation (Dua) calms anxious thoughts and restores inner peace.",
+        "**Consistency in Righteous Action**: Small, consistent good deeds—reciting sacred verses, making Istighfar, and extending kindness—bring immense spiritual barakah."
+      ],
+      "practical_dua": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ\n\n\"Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire.\" (Surah Al-Baqarah 2:201)",
+      "faqs": [
+        {
+          "q": "What is the central theme of Surah Al-Baqara (Ayah 286)?",
+          "a": "The primary theme focuses on spiritual wisdom & guidance, guiding believers to cultivate unwavering trust in Allah, practice patience through trials, and find solace in divine remembrance."
+        },
+        {
+          "q": "How can I apply Surah Al-Baqara in my daily life for mental peace?",
+          "a": "Recite these verses deliberately after daily prayers or during night reflection (Tahajjud). Contemplate both the Urdu and English meanings to internalize the divine promise of relief after hardship."
+        },
+        {
+          "q": "Where was Surah Al-Baqara revealed and how many verses does it contain?",
+          "a": "Surah Al-Baqara is chapter #2 of the Holy Quran, containing sacred revelations that address both personal spiritual development and communal ethics."
+        }
+      ]
+    }
+  },
+  {
     "slug": "surah-al-baqara-285",
     "surah": 2,
     "surah_name": "Al-Baqara",
