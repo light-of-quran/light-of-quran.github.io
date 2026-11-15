@@ -223,6 +223,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah Al-Israa (82-80)",
+      "url": "verses/surah-17-82.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s17_v82_892/00_cover.png",
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T12:30:59.700263+00:00",
+      "slug": "surah-17-82"
+    },
+    {
       "title": "Surah At-Talaaq (2-3)",
       "url": "verses/surah-at-talaaq-2-3.html",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s65_v2_656/00_cover.png",
