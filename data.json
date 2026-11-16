@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Aal-i-Imraan (4-5)",
+      "url": "verses/surah-aal-i-imraan-4-5.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-16",
+      "timestamp": "2026-11-16T08:25:50.444082+00:00",
+      "slug": "surah-aal-i-imraan-4-5"
+    },
+    {
       "title": "Surah Aal-i-Imraan (1-3)",
       "url": "verses/surah-aal-i-imraan-1-3.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
@@ -216,13 +224,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_26_762.mp4.thumb.png",
       "date": "2026-05-09",
       "timestamp": "2026-05-09T07:51:11.904650"
-    },
-    {
-      "title": "New Quran Reel: quran_seq_2_25_898.mp4",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_25_898.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_25_898.mp4.thumb.png",
-      "date": "2026-05-08",
-      "timestamp": "2026-05-08T17:11:57.731527"
     }
   ],
   "carousels": [
