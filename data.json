@@ -228,6 +228,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah Al-Anbiyaa (83-87)",
+      "url": "verses/surah-al-anbiyaa-83-87.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s21_v83_570/00_cover.png",
+      "date": "2026-11-16",
+      "timestamp": "2026-11-16T13:22:39.158849+00:00",
+      "slug": "surah-al-anbiyaa-83-87"
+    },
+    {
       "title": "Surah Al-Israa (82-80)",
       "url": "verses/surah-17-82.html",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s17_v82_892/00_cover.png",
