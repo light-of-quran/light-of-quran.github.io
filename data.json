@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Taa-Haa (114-114)",
+      "url": "verses/surah-taa-haa-114.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T21:37:33.870652+00:00",
+      "slug": "surah-taa-haa-114"
+    },
+    {
       "title": "Surah Ibrahim (40-41)",
       "url": "verses/surah-ibrahim-40-41.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
@@ -219,13 +227,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_30_955.mp4.thumb.png",
       "date": "2026-05-10",
       "timestamp": "2026-05-10T15:28:41.937823"
-    },
-    {
-      "title": "New Quran Reel: quran_seq_2_29_602.mp4",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_29_602.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_29_602.mp4.thumb.png",
-      "date": "2026-05-10",
-      "timestamp": "2026-05-10T07:55:11.374635"
     }
   ],
   "carousels": [
