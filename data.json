@@ -230,6 +230,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah Taa-Haa (25-28)",
+      "url": "verses/surah-taa-haa-25-28.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s20_v25_527/00_cover.png",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T14:12:53.554738+00:00",
+      "slug": "surah-taa-haa-25-28"
+    },
+    {
       "title": "Surah Al-Anbiyaa (83-87)",
       "url": "verses/surah-al-anbiyaa-83-87.html",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s21_v83_570/00_cover.png",
