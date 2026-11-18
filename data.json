@@ -231,6 +231,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah Al-Baqara (214-139)",
+      "url": "verses/surah-2-214.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v214_717/00_cover.png",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T13:41:04.866064+00:00",
+      "slug": "surah-2-214"
+    },
+    {
       "title": "Surah Taa-Haa (25-28)",
       "url": "verses/surah-taa-haa-25-28.html",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s20_v25_527/00_cover.png",
