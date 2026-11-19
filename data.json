@@ -231,6 +231,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah At-Takaathur (1-5)",
+      "url": "verses/surah-at-takaathur-1-5.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s102_v1_425/00_cover.png",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T14:08:03.941250+00:00",
+      "slug": "surah-at-takaathur-1-5"
+    },
+    {
       "title": "Surah Al-Baqara (214-139)",
       "url": "verses/surah-2-214.html",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s2_v214_717/00_cover.png",
