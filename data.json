@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah At-Talaaq (2-2)",
+      "url": "verses/surah-at-talaaq-2.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T21:30:23.358252+00:00",
+      "slug": "surah-at-talaaq-2"
+    },
+    {
       "title": "Surah Quraish (1-4)",
       "url": "verses/surah-quraish-1-4.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
@@ -221,13 +229,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_33_846.mp4.thumb.png",
       "date": "2026-05-11",
       "timestamp": "2026-05-11T18:35:50.161825"
-    },
-    {
-      "title": "New Quran Reel: quran_seq_2_31_520.mp4",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_31_520.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_31_520.mp4.thumb.png",
-      "date": "2026-05-11",
-      "timestamp": "2026-05-11T11:56:56.069687"
     }
   ],
   "carousels": [
