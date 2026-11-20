@@ -1,5 +1,45 @@
 [
   {
+    "slug": "surah-quraish-1-4",
+    "surah": 1,
+    "surah_name": "Quraish",
+    "verse_start": 1,
+    "verse_end": 4,
+    "category": {
+      "label": "Spiritual Wisdom & Guidance",
+      "slug": "spiritual-wisdom",
+      "badge": "Spiritual Wisdom"
+    },
+    "arabic_text": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ مَٰلِكِ يَوْمِ ٱلدِّينِ",
+    "english_translation": "In the name of Allah, the Entirely Merciful, the Especially Merciful. [All] praise is [due] to Allah, Lord of the worlds - The Entirely Merciful, the Especially Merciful, Sovereign of the Day of Recompense.",
+    "urdu_translation": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے بڑا مہربان نہایت رحم والا انصاف کے دن کا حاکم",
+    "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
+    "date": "2026-11-20",
+    "tafsir": {
+      "context": "Surah Quraish holds profound significance in Islamic spirituality, offering timeless reassurance to believers. In these sacred verses (Ayat 1-4), the Divine address directly touches the human heart, speaking directly to our inner struggles, trials, and search for spiritual grounding. When life presents overwhelming hardships, turning to the revelation provides clarity, reminding the believer of Allah's infinite wisdom, boundless mercy, and watchful care over all affairs.",
+      "lessons": [
+        "**Firm Faith in Times of Uncertainty**: Recognizing that every delay or hardship in life carries divine wisdom beyond immediate human comprehension.",
+        "**The Power of Silent Supplication**: Remembering Allah through sincere invocation (Dua) calms anxious thoughts and restores inner peace.",
+        "**Consistency in Righteous Action**: Small, consistent good deeds—reciting sacred verses, making Istighfar, and extending kindness—bring immense spiritual barakah."
+      ],
+      "practical_dua": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ\n\n\"Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire.\" (Surah Al-Baqarah 2:201)",
+      "faqs": [
+        {
+          "q": "What is the central theme of Surah Quraish (Ayat 1-4)?",
+          "a": "The primary theme focuses on spiritual wisdom & guidance, guiding believers to cultivate unwavering trust in Allah, practice patience through trials, and find solace in divine remembrance."
+        },
+        {
+          "q": "How can I apply Surah Quraish in my daily life for mental peace?",
+          "a": "Recite these verses deliberately after daily prayers or during night reflection (Tahajjud). Contemplate both the Urdu and English meanings to internalize the divine promise of relief after hardship."
+        },
+        {
+          "q": "Where was Surah Quraish revealed and how many verses does it contain?",
+          "a": "Surah Quraish is chapter #1 of the Holy Quran, containing sacred revelations that address both personal spiritual development and communal ethics."
+        }
+      ]
+    }
+  },
+  {
     "slug": "surah-at-takaathur-1-5",
     "surah": 102,
     "surah_name": "At-Takaathur",
