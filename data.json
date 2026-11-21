@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Al-Baqara (152-153)",
+      "url": "verses/surah-al-baqara-152-153.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:15:54.320832+00:00",
+      "slug": "surah-al-baqara-152-153"
+    },
+    {
       "title": "Surah Al-Maa'un (1-7)",
       "url": "verses/surah-al-maaun-1-7.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
@@ -223,13 +231,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_36_643.mp4.thumb.png",
       "date": "2026-05-12",
       "timestamp": "2026-05-12T18:46:45.145518"
-    },
-    {
-      "title": "New Quran Reel: quran_seq_2_34_740.mp4",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_34_740.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_34_740.mp4.thumb.png",
-      "date": "2026-05-12",
-      "timestamp": "2026-05-12T10:02:26.753177"
     }
   ],
   "carousels": [
