@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Al-Anbiyaa (83-83)",
+      "url": "verses/surah-al-anbiyaa-83.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T20:29:44.420061+00:00",
+      "slug": "surah-al-anbiyaa-83"
+    },
+    {
       "title": "Surah Al-A'raaf (180-180)",
       "url": "verses/surah-1-180.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
@@ -225,13 +233,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_40_868.mp4.thumb.png",
       "date": "2026-05-13",
       "timestamp": "2026-05-13T18:34:35.373608"
-    },
-    {
-      "title": "New Quran Reel: quran_seq_2_38_357.mp4",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_38_357.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_38_357.mp4.thumb.png",
-      "date": "2026-05-13",
-      "timestamp": "2026-05-13T10:08:25.986771"
     }
   ],
   "carousels": [
