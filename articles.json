@@ -1,5 +1,45 @@
 [
   {
+    "slug": "surah-al-anbiyaa-89",
+    "surah": 21,
+    "surah_name": "Al-Anbiyaa",
+    "verse_start": 89,
+    "verse_end": 89,
+    "category": {
+      "label": "Spiritual Wisdom & Guidance",
+      "slug": "spiritual-wisdom",
+      "badge": "Spiritual Wisdom"
+    },
+    "arabic_text": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ",
+    "english_translation": "And [mention] Zechariah, when he called to his Lord, \"My Lord, do not leave me alone [with no heir], while you are the best of inheritors.\"",
+    "urdu_translation": "اور زکریا (کو یاد کرو) جب انہوں نے اپنے پروردگار کو پکارا کہ پروردگار مجھے اکیلا نہ چھوڑ اور تو سب سے بہتر وارث ہے",
+    "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2572.mp3",
+    "date": "2026-11-23",
+    "tafsir": {
+      "context": "Surah Al-Anbiyaa holds profound significance in Islamic spirituality, offering timeless reassurance to believers. In these sacred verses (Ayah 89), the Divine address directly touches the human heart, speaking directly to our inner struggles, trials, and search for spiritual grounding. When life presents overwhelming hardships, turning to the revelation provides clarity, reminding the believer of Allah's infinite wisdom, boundless mercy, and watchful care over all affairs.",
+      "lessons": [
+        "**Firm Faith in Times of Uncertainty**: Recognizing that every delay or hardship in life carries divine wisdom beyond immediate human comprehension.",
+        "**The Power of Silent Supplication**: Remembering Allah through sincere invocation (Dua) calms anxious thoughts and restores inner peace.",
+        "**Consistency in Righteous Action**: Small, consistent good deeds—reciting sacred verses, making Istighfar, and extending kindness—bring immense spiritual barakah."
+      ],
+      "practical_dua": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ\n\n\"Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire.\" (Surah Al-Baqarah 2:201)",
+      "faqs": [
+        {
+          "q": "What is the central theme of Surah Al-Anbiyaa (Ayah 89)?",
+          "a": "The primary theme focuses on spiritual wisdom & guidance, guiding believers to cultivate unwavering trust in Allah, practice patience through trials, and find solace in divine remembrance."
+        },
+        {
+          "q": "How can I apply Surah Al-Anbiyaa in my daily life for mental peace?",
+          "a": "Recite these verses deliberately after daily prayers or during night reflection (Tahajjud). Contemplate both the Urdu and English meanings to internalize the divine promise of relief after hardship."
+        },
+        {
+          "q": "Where was Surah Al-Anbiyaa revealed and how many verses does it contain?",
+          "a": "Surah Al-Anbiyaa is chapter #21 of the Holy Quran, containing sacred revelations that address both personal spiritual development and communal ethics."
+        }
+      ]
+    }
+  },
+  {
     "slug": "surah-al-anbiyaa-83",
     "surah": 21,
     "surah_name": "Al-Anbiyaa",
