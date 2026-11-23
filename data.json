@@ -238,6 +238,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah Al-Kaafiroon (1-5)",
+      "url": "verses/surah-al-kaafiroon-1-5.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s109_v1_568/00_cover.png",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T15:46:39.011768+00:00",
+      "slug": "surah-al-kaafiroon-1-5"
+    },
+    {
       "title": "Surah Al-Hashr (22-24)",
       "url": "verses/surah-al-hashr-22-24.html",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s59_v22_362/00_cover.png",
@@ -449,13 +457,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v21_237/00_cover.png",
       "date": "2026-09-01",
       "timestamp": "2026-09-01T12:46:00.229724"
-    },
-    {
-      "title": "Surah Aal-i-Imraan (16-20)",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v16_530/00_cover.png",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v16_530/00_cover.png",
-      "date": "2026-08-29",
-      "timestamp": "2026-08-29T13:23:05.161799"
     }
   ]
 }
