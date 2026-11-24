@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Aal-i-Imraan (38-38)",
+      "url": "verses/surah-aal-i-imraan-38.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T01:10:44.213757+00:00",
+      "slug": "surah-aal-i-imraan-38"
+    },
+    {
       "title": "Surah Al-Anbiyaa (89-89)",
       "url": "verses/surah-al-anbiyaa-89.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
@@ -227,13 +235,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_43_740.mp4.thumb.png",
       "date": "2026-05-14",
       "timestamp": "2026-05-14T09:48:59.107230"
-    },
-    {
-      "title": "New Quran Reel: quran_seq_2_41_531.mp4",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_41_531.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_41_531.mp4.thumb.png",
-      "date": "2026-05-14",
-      "timestamp": "2026-05-14T09:36:58.587736"
     }
   ],
   "carousels": [
