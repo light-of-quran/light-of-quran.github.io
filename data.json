@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Ash-Sharh (5-6)",
+      "url": "verses/surah-ash-sharh-5-6.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-24",
+      "timestamp": "2026-11-24T10:18:50.864650+00:00",
+      "slug": "surah-ash-sharh-5-6"
+    },
+    {
       "title": "Surah Aal-i-Imraan (38-38)",
       "url": "verses/surah-aal-i-imraan-38.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
@@ -228,13 +236,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_46_349.mp4.thumb.png",
       "date": "2026-05-14",
       "timestamp": "2026-05-14T13:48:05.244273"
-    },
-    {
-      "title": "New Quran Reel: quran_seq_2_43_740.mp4",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_43_740.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_43_740.mp4.thumb.png",
-      "date": "2026-05-14",
-      "timestamp": "2026-05-14T09:48:59.107230"
     }
   ],
   "carousels": [
