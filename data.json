@@ -241,6 +241,14 @@
   ],
   "carousels": [
     {
+      "title": "Surah Yusuf (86-86)",
+      "url": "verses/surah-yusuf-86.html",
+      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s12_v86_325/00_cover.png",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T15:18:12.791485+00:00",
+      "slug": "surah-yusuf-86"
+    },
+    {
       "title": "Surah Taa-Haa (114-128)",
       "url": "verses/surah-taa-haa-114-128.html",
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s20_v114_433/00_cover.png",
@@ -454,13 +462,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v31_995/00_cover.png",
       "date": "2026-09-09",
       "timestamp": "2026-09-09T12:30:33.999988"
-    },
-    {
-      "title": "Surah Aal-i-Imraan (26-30)",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v26_113/00_cover.png",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/carousels/auto_s3_v26_113/00_cover.png",
-      "date": "2026-09-05",
-      "timestamp": "2026-09-05T11:26:51.706180"
     }
   ]
 }
