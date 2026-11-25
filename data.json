@@ -1,6 +1,14 @@
 {
   "reels": [
     {
+      "title": "Surah Aal-i-Imraan (8-8)",
+      "url": "verses/surah-aal-i-imraan-8.html",
+      "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T22:43:18.811331+00:00",
+      "slug": "surah-aal-i-imraan-8"
+    },
+    {
       "title": "Surah Yusuf (86-86)",
       "url": "verses/surah-yusuf-86.html",
       "thumbnail": "https://light-of-quran.github.io/assets/hero-bg.jpg",
@@ -230,13 +238,6 @@
       "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_49_538.mp4.thumb.png",
       "date": "2026-05-15",
       "timestamp": "2026-05-15T10:12:52.524648"
-    },
-    {
-      "title": "New Quran Reel: quran_seq_2_48_422.mp4",
-      "url": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_48_422.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/hamid-raza-g/reels/main/storage/videos/quran_seq_2_48_422.mp4.thumb.png",
-      "date": "2026-05-14",
-      "timestamp": "2026-05-14T18:29:32.038309"
     }
   ],
   "carousels": [
